@@ -7,10 +7,10 @@
   * Its performance compared to the other schools places it at number 2. There is a considerably high difference in the scores. With the removal of the 9th grade scores Thomas High School rank in the top with all other schools in the top 5 having nearly identical average math and reading scores.
 * How does replacing the ninth-grade scores affect the following:
   * Math and reading scores by grade
-   * It did not noticeable difference in the rankings of the schools by grade.
+    * It did not noticeable difference in the rankings of the schools by grade.
   * Scores by school spending
-   * The changes did not have a significant effect. There was an increase in the pass rate of $645-675
+    * The changes did not have a significant effect. There was an increase in the pass rate of $645-675
   * Scores by school size
-   * There was no significant effect. 
+    * There was no significant effect. 
   * Scores by school type
-   * There was no significant effect. 
+    * There was no significant effect. 
